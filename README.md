@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @birkanalp
 - 👀 I’m interested in React, NodoeJs, NextJs, NestJs, React-Native, TypeScript
-- 🌱 I’m currently learning Web3.js
+- 🌱 I’m currently learning Web3.js, Unity
 - 📫 How to reach me birkanalpyaman@gmail.com
 
 <!---
